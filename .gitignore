@@ -1,0 +1,5 @@
+node_modules
+dist
+min
+*.sublime-project
+*.sublime-workspace

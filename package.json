@@ -1,0 +1,29 @@
+{
+  "name": "GruntProjectBoilerplate",
+  "version": "0.0.0",
+  "description": "none",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://notepadwebdev@bitbucket.org/epiphanydevelopers/griff-grunt-project-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "notepadwebdev <stephen.griffin@epiphanysolutions.co.uk>",
+  "license": "",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-autoprefixer": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-imagemin": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-express-server": "~0.4.3",
+    "express": "~3.4.0",
+    "connect-livereload": "~0.3.0",
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}

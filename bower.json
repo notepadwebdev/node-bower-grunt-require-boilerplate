@@ -1,0 +1,9 @@
+{
+  "name": "GruntProjectBoilerplate",
+  "version": "0.0.0",
+  "dependencies": {
+  	"modernizr": "latest",
+  	"requirejs": "latest",
+    "jquery": "~1.10.*"
+  }
+}
