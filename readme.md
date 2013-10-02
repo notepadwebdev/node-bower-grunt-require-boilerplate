@@ -44,7 +44,7 @@ Now that you have Node, Grunt and Bower installed you can clone this boilerplate
 
 ```js
 cd path/to/your/projects
-git clone https://YOUR-USERNAME-HERE@bitbucket.org/epiphanydevelopers/griff-grunt-project-boilerplate.git
+git clone https://github.com/notepadwebdev/node-bower-grunt-require-boilerplate.git
 ```
 
 "cd" into the root of the project so that all subsequent commands apply to the newly cloned project.
